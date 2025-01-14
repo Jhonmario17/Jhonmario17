@@ -1,0 +1,22 @@
+*Tipo de datos*
+Tipado Dinamico
+
+tipo de dato
+
+Primitivo 
+Inmutabilidad(se pasan por valor)
+
+String
+Numberx
+Boolean
+null
+undefined
+Symbol
+BigInt
+
+complejos
+Mutabilidad( se pasan por referencia)
+
+Object
+Array
+function
